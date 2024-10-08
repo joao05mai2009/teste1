@@ -1,7 +1,7 @@
 # DESENVOLVIDO POR
-## JOÃO EMANUEL:wink:
+## JOÃO EMANUEL :wink:
 ### ÁREAS AFINS
-#### BIOLOGIA:smiley:
-#### MATEMATICA:grinning:
+#### BIOLOGIA :smiley:
+#### MATEMATICA :grinning:
 #### SITE DESENVOLVIDO EM HTML E CSS
-#### GOSTO DE ANDA DE CAVALO:horse: E ANDAR DE MOTO:collision:
+#### GOSTO DE ANDA DE CAVALO :horse: E ANDAR DE MOTO :collision:
